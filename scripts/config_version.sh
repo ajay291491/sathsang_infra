@@ -10,3 +10,4 @@ else
   /usr/bin/git --git-dir $1/$2/.git rev-parse HEAD ||
   date +%s
 fi 
+# test
