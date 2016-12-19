@@ -31,4 +31,4 @@ node default {
   #   class { 'my_class': }
 }
 
-
+# This line added on 19-Dec-2016
